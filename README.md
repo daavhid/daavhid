@@ -1,60 +1,42 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001C64,100:0078FF&height=200&section=header&text=Hi%20I'm%20David%20Victor%20👋&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Banner](https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/banner.png)
 
-## 🚀 About Me  
-I’m a **Frontend & Fullstack Developer** passionate about building **scalable, user-friendly, and visually stunning web applications**.  
-Currently working at **Clywell Technologies**, where I craft **high-quality solutions** using modern JavaScript frameworks and backend technologies.  
+# Hi, I'm Ojo David Oluwatoyosi 👋
 
-💡 I believe great products are born from **clean code, collaboration, and curiosity**.  
-When I’m not coding, you might find me **teaching upcoming developers** or **strategizing my next chess move** (former Chess Captain here ♟️).
-
----
-
-## 🛠 Tech Stack  
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+💻 **Frontend Developer | Backend Explorer | Fullstack-in-Progress**  
+Building responsive, user-focused web applications with **Next.js, React, Express, and MySQL**.  
+I’m passionate about turning ideas into functional products that look great and perform flawlessly.
 
 ---
 
-## 📊 GitHub Stats  
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daavhid&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daavhid&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=daavhid&theme=tokyonight)
+## 🚀 Tech Stack
+**Languages & Frameworks**  
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React, Next.js, Node.js, Express  
+- MySQL, MongoDB  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- Tailwind CSS, Shadcn/UI, Framer Motion  
+- Postman, Figma, VS Code
 
 ---
 
-## 📌 Featured Projects  
-
-
-🔹 **[LearnSphere Admin](https://github.com/yourusername/LearnSphere)**  
-_Admin dashboard for educational platforms with CSV import, course/topic management, and real-time analytics._  
-**Tech:** React, Express, MySQL  
-
+## 📊 GitHub Stats
+![David's GitHub Stats] https://github-readme-stats.vercel.app/api?username=daavhid&show_icons=true&theme=radical
+![Top Languages] https://github-readme-stats.vercel.app/api/top-langs/?username=daavhid&layout=compact&theme=radical
 
 ---
 
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daavhid)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-001C64?style=for-the-badge&logo=About.me&logoColor=white)](https://daavhid-portfolio.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victortoyosi@gmail.com)
+## 📫 Contact Me
+- **Email:** victortoyosi@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/daavhid
+- **Portfolio:** https://daavhid-portfolio.vercel.app
 
 ---
 
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+
+---
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001C64,100:0078FF&height=120&section=footer)
+![Footer](https://raw.githubusercontent.com/<your-username>/<your-username>/main/assets/footer.png)
