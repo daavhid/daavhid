@@ -3,7 +3,7 @@
 
 # Hi, I'm Ojo David Oluwatoyosi 👋
 
-💻 **Frontend Developer | Backend Explorer | Fullstack-in-Progress**  
+💻 **Frontend Developer | Backend Explorer | Fullstack Developer**  
 Building responsive, user-focused web applications with **Next.js, React, Express, and MySQL**.  
 I’m passionate about turning ideas into functional products that look great and perform flawlessly.
 
